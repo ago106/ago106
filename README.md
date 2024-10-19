@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ago106
-- 💻Pro code
+- 💻 Pro code
