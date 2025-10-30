@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/spacehub"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/ktC6dNVxDC"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ago106"><img src="https://img.shields.io/github/followers/ago106?style=for-the-badge&color=6e40c9&label=Followers" alt="GitHub Followers" /></a>
   <a href="https://github.com/ago106?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   <a href="https://github.com/ago106?tab=stars"><img src="https://img.shields.io/badge/My%20Stars-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
@@ -100,25 +100,20 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ago106&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=8b9dc3" height="165" alt="WakaTime Stats" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/spacehub">
+  <a href="https://discord.gg/ktC6dNVxDC">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/ago106">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-  
-  **"Hello World"** 👨‍💻 | *Building the future of Roblox automation*
-  
-  <img src="https://komarev.com/ghpvc/?username=ago106&color=6e40c9&style=flat-square" alt="Profile Views" />
-  
 </div>
 
 <p align="center">
