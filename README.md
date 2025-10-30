@@ -94,7 +94,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ago106&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en" height="160" />
   <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="160" />
 </div>
-
-<p align="center" style="font-size: 0.9em;">
-   <strong>Space Hub</strong> | Powered by Lua and Cosmic Energy 🚀
-</p>
