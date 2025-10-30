@@ -42,39 +42,14 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" title="C#" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" title="C++" />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" title="TypeScript" />
 </div>
-
-### 🌐 Web Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" title="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="Sass" title="Sass" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="45" alt="Svelte" title="Svelte" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux" title="Redux" />
-</div>
-
-### 🗄️ Databases & Servers
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx" title="Nginx" />
 </div>
 
 ### 🔧 Development Tools
@@ -86,8 +61,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="Neovim" title="Neovim" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="PyCharm" title="PyCharm" />
 </div>
