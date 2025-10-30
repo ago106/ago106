@@ -29,12 +29,9 @@
 </div>
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
-
-## 🛠️ Tech Stack & Expertise
 
 ### 🎯 Core Technologies
 <div align="center">
@@ -51,8 +48,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" title="CSS3" />
   <img width="12" />
 </div>
-
-### 🔧 Development Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
   <img width="12" />
@@ -66,28 +61,7 @@
 </div>
 
 ## 📈 Additional Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ago106&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=8b9dc3" height="165" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ago106&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=8b9dc3" height="165" alt="WakaTime Stats" />
 </div>
-
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://discord.gg/ktC6dNVxDC">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/ago106">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ago106/ago106/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ago106/ago106/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ago106/ago106/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
