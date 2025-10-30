@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Advanced Roblox Automation | Boss Raiding | Auto Farming | Game Optimization</b>  
+  <b>Advanced Roblox Automation | Auto Farming | Game Optimization</b>  
 </p>
 
 <p align="center">
