@@ -31,9 +31,9 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="160" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -99,10 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ago106&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=8b9dc3" height="165" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ago106&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=8b9dc3" height="165" alt="WakaTime Stats" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
 
 
 ## 📫 Connect With Me
