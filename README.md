@@ -1,3 +1,4 @@
+<h1 align="center">"Hello World"(print)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Space+Hub;⚡+Roblox+Automation+Scripts;🎮+Game+Enhancement+Tools;🚀+Auto+Farming+Systems" />
 </p>
@@ -11,16 +12,6 @@
   <a href="https://github.com/ago106"><img src="https://img.shields.io/github/followers/ago106?style=for-the-badge&color=6e40c9" /></a>
   <a href="https://github.com/ago106?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-## ✨ About Space Hub
-
-Space Hub is a Roblox scripting initiative focused on **automation**, **enhanced gameplay**, and **quality-of-life tools** for players who want to farm, raid, and explore smarter — not harder.
-
-We specialize in:
-- 🚀 Auto Farming & Teleport Tools  
-- 🛠️ Clean, User-Friendly GUI Systems
-- ⚡ Performance Optimization
-- 🎮 Game Enhancement Features
 
 ## 📊 GitHub Stats
 
@@ -100,12 +91,10 @@ We specialize in:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ago106&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="160" />
 </div>
 
 <p align="center" style="font-size: 0.9em;">
    <strong>Space Hub</strong> | Powered by Lua and Cosmic Energy 🚀
 </p>
-
-<h1 align="center">"Hello World"(print)</h1>
