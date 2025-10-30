@@ -1,14 +1,3 @@
-# 🚀 Space Hub | Agushenka
-
-<h1 align="center" style="
-  background: linear-gradient(90deg, #6e40c9, #00E5FF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3em;
-  font-weight: bold;">
-  🚀 Space Hub
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Space+Hub;⚡+Roblox+Automation+Scripts;🎮+Game+Enhancement+Tools;🚀+Auto+Farming+Systems" />
 </p>
