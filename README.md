@@ -30,6 +30,7 @@
 </p>
 
 ### 🎯 Core Technologies
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua" height="50" alt="Lua" title="Lua" />
   <img width="15" />
@@ -37,21 +38,26 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript" />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin" title="Kotlin" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" title="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" title="CSS3" />
-  <img width="12" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions" title="GitHub Actions" />
-  <img width="12" />
+</div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="PyCharm" title="PyCharm" />
 </div>
