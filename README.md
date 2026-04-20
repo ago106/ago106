@@ -20,15 +20,14 @@
 
 </div>
 
-<a href="https://rscripts.net/user/ago106" target="_blank"><img alt="ago106 on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/ago106?theme=dark" /></a>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ago106&radius=16&theme=react-dark&area=true&order=5&bg_color=0D1117&title_color=6e40c9&color=8b9dc3&line=6e40c9&point=8b9dc3" height="320" alt="Activity Graph" />
 </div>
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ago106&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <a href="https://rscripts.net/user/ago106" target="_blank"><img alt="ago106 on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/ago106?theme=dark" /></a>
 </p>
 
 ### 🎯 Core Technologies
