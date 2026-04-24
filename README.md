@@ -8,8 +8,6 @@
   <a href="https://github.com/ago106"><img src="https://img.shields.io/github/followers/ago106?style=for-the-badge&color=6e40c9&label=Followers" alt="GitHub Followers" /></a>
   <a href="https://github.com/ago106?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   <a href="https://github.com/ago106?tab=stars"><img src="https://img.shields.io/badge/My%20Stars-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
-  ![Counter](https://komarev.com/ghpvc/?username=ago106)
-  ![Render](https://hit.yhype.me/github/profile?account_id=72569213)
 </p>
 
 ## 📊 GitHub Analytics
